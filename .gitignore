@@ -3,9 +3,11 @@
 /node_modules
 /build
 
-bun/
-/bun
-bun
+.bun/
+.bun-bin/
+.bun-debug/
+.bun-node_modules/
+.bun-vfs/
 
 # Logs
 logs
